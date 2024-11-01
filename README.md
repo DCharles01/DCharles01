@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Charles</h1>
-<h3 align="center">I'm a data/ml engineer with a passion for machine learning and LLMs!</h3>
+<h3 align="center">Data and ML Engineer passionate about building robust infrastructure to support machine learning and AI solutions!</h3>
 
 - 🔭 I’m currently working on [Hospital Admission Managment Tool](https://github.com/DCharles01/HospiCare)
 
